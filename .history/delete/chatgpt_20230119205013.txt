@@ -1,0 +1,16 @@
+CREATE TABLE checklist (
+id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
+material_name TEXT,
+supplier_name VARCHAR(150),
+method_of_inspection VARCHAR(50),
+material_received INT,
+total_inspected INT,
+total_pass INT,
+total_failure INT,
+delivery_note VARCHAR(150),
+sample_inspected VARCHAR(150),
+delivery_date DATE,
+inspection_date DATE,
+filename VARCHAR(100),
+remark LONGTEXT
+);
