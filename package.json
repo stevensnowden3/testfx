@@ -21,6 +21,7 @@
     "@fortawesome/fontawesome-svg-core": "^6.2.1",
     "@fortawesome/free-solid-svg-icons": "^6.2.1",
     "@fortawesome/react-fontawesome": "^0.2.0",
+    "@jridgewell/sourcemap-codec": "^1.4.14",
     "@syncfusion/ej2-react-richtexteditor": "^20.4.44",
     "@tinymce/tinymce-react": "^4.3.0",
     "axios": "^1.2.2",
